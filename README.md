@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-## Author Lucrecia Paolini @lpaoliespin
+## Author: Lucrecia Paolini @lpaoliespin
 
 This repository contains the code for my solution to the assignment of the course "Getting and Cleaning Data Course Project".
 
