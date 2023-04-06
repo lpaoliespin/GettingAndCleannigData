@@ -42,3 +42,4 @@ You should create one R script called run_analysis.R that does the following.
 ### Dependencies
 
 The script run_analysis.R will install automatically the packages dplyr, data.table and reshape2.
+
