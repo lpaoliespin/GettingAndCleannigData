@@ -10,7 +10,7 @@
 # Setting work directory
 
 # setwd('Set here your work directory')
-setwd('~/Documents/Training/DataScience/Coursera_JHU/DS-Specialization/CourseProjects/GettingAndCleannigData')
+# setwd('~/Documents/Training/DataScience/Coursera_JHU/DS-Specialization/CourseProjects/GettingAndCleannigData')
 
 # Importing libraries
 
